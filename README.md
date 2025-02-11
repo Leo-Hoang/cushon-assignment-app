@@ -59,7 +59,7 @@ I chose to use the following technologies:
 
 1. Typescript: I am knowledgable with Typescript, and handling data is made much easier and safer.
 2. Vite: To build / compile the project. Fast to setup, easy to use and allows for quick testing.
-3. Redux: Allowed me  0tomanage global states, 
+3. Redux: Allowed me to manage global states and update the server.
 4. MUI: A great UI framework. I made extensive use of their grids and components.
 5. JSON Server: Extremely simple to setup and perfect for the needs of this assignment. Originally, I had set up a whole MySQL server which was a lengthly process. Although a good learning experience, it wasn't neccessary for this assignment.
 6. React Hook Form: I only scratched the surfice of the form validation features, but it did allow me to the form structure for the investment page easily.
