@@ -1,0 +1,30 @@
+.customer-page {
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  padding-top: 70px;
+  padding-bottom: 220px;
+}
+
+.left-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  gap: 30px;
+  height: 100%;
+}
+
+.form-button {
+  display: flex;
+  background-color: #470068 !important;
+  color: #ffffff !important;
+  width: 300px;
+  height: 50px;
+}

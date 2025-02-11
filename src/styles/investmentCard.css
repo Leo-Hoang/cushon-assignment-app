@@ -1,0 +1,27 @@
+.custom-card {
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.card-header {
+  background-color: #ec4a9b;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+
+.header-text {
+  color: white;
+  font-weight: bold;
+}
+
+.card-section {
+  flex-direction: column;
+  justify-content: center;
+  padding: 25px;
+  min-height: 220px;
+}
+
+.icon {
+  color: #470068;
+  margin: 10px;
+}
