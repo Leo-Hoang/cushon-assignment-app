@@ -65,7 +65,7 @@ I chose to use the following technologies:
 6. React Hook Form: I only scratched the surfice of the form validation features, but it did allow me to the form structure for the investment page easily.
 7. Git: Self explanitory.
 
-If I had more time, I would've liked to use JUnit and run some unit tests. In an application which handles data and especially finance, it's imperative. Unfortunately I planned to only do this at the end, and I wasn't able to.
+If I had more time, I would've liked to use JUnit (Addition: Was meant to write Cypress, not JUnit... ) and run some unit tests. In an application which handles data and especially finance, it's imperative. Unfortunately I planned to only do this at the end, and I wasn't able to.
 
 **CONCLUSION**
 
